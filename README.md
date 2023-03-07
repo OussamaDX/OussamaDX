@@ -7,7 +7,7 @@
 
 ### Glad to see you here! 
 
-I am a student of 1337 coding school
+### I am a student of 1337 coding school
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
