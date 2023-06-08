@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif
+[![MasterHead](https://2.bp.blogspot.com/-STtWHA15VHg/Xd2y2ZjJmeI/AAAAAAAARvc/5kqn4SuOfdwGeQ7a6pSNZ5iBu5GheiwBgCLcBGAsYHQ/w919/mario-pixel-art-digital-art-nintendo-computer-uhdpaper.com-4K-4.2038-wp.thumbnail.jpg)](https://github.com/)
 
 [![ooussaad's 42 stats](https://badge.mediaplus.ma/greenbinary/ooussaad)](https://github.com/oakoudad/badge42)
 
